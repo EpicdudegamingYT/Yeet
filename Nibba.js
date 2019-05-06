@@ -52,7 +52,7 @@ if (document.getElementById("namesBox")) {
 var elem = document.createElement("p");
 var element = document.getElementById("mainTitleText");
 element.style.color = "#f00";
-var node = document.createTextNode("Niggers");
+var node = document.createTextNode("I Hate Blacks");
 elem.appendChild(node);
 element.appendChild(elem);
 var node = document.createTextNode("Red = off, Green = on");
@@ -139,7 +139,6 @@ setInterval(function() {
 		player.dead = false;
 	}
 }, 50);
-
 
 
 // Prevent suspicious activity kick
@@ -417,7 +416,7 @@ for (var headingText in halpTextArr) {
 	halpText += "\n";
 }
 var adWrapperHtml = '';
-adWrapperHtml += "<h3 class=\"menuHeader\">VERTIX.IO MOD</h3>";
+adWrapperHtml += "<h3 class=\"menuHeader\">I Hate Blacks</h3>";
 adWrapperHtml += "  <p style=\"color: rgba(0, 0, 0, 0.4);\"><b>Version:</b> 4.4</p>";
 adWrapperHtml += "  <p style=\"color: rgba(0, 0, 0, 0.4);\"><b>Greasy Fork update link:</b> <a target=\"_blank\" href=\"https:// greasyfork.org/scripts/30305-vertix-io-mod/code/Vertixio%20Mod.user.js\">greasyfork.org/en/scripts/30305</a></p>";
 adWrapperHtml += "  <p style=\"color: rgba(0, 0, 0, 0.4);\"><b>Pro Hack Net join link:</b> <a target=\"_blank\" href=\"https:// discord.gg/2Nzjvxq\">discord.gg/2Nzjvxq</a></p>";
