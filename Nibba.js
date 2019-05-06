@@ -52,7 +52,7 @@ if (document.getElementById("namesBox")) {
 var elem = document.createElement("p");
 var element = document.getElementById("mainTitleText");
 element.style.color = "#f00";
-var node = document.createTextNode("Vertix.io Mod By SnowLord7");
+var node = document.createTextNode("Niggers");
 elem.appendChild(node);
 element.appendChild(elem);
 var node = document.createTextNode("Red = off, Green = on");
